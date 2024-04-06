@@ -35,11 +35,14 @@ Passionate about startup projects, I excel in dynamic environments, driving inno
 <code><img width="15%" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></code>
 <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="15%" src="https://github.com/get-icon/geticon/blob/master/icons/vite.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
  <code><img width="15%" src="https://miro.medium.com/max/1400/1*Smbj_VLH7JRp9GhLaKyiUQ.png"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
- <code><img width="15%" src="https://en.bitcoinwiki.org/upload/en/images/thumb/d/d5/Solidity.png/400px-Solidity.png"></code>
+ <code><img width="15%" src="https://upload.vectorlogo.zone/logos/prismaio/images/86bb553b-f799-4a8c-8e9e-5e4ef7f10e92.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
@@ -49,14 +52,14 @@ Passionate about startup projects, I excel in dynamic environments, driving inno
 </p>
 
 ## 👀 Views and Followers ❤
-<a href="https://github.com/19sajib">
+<a href="https://github.com/tonicdev09">
     <img src="https://komarev.com/ghpvc/?username=19sajib">
 </a>
-<a href="https://github.com/19sajib?tab=followers">
+<a href="https://github.com/tonicdev09?tab=followers">
 <img src="https://img.shields.io/github/followers/19sajib?label=Followers&style=social" alt="GitHub Badge">
 </a>
 
 <br/>
 
 ## 📫   How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/19sajib) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/19sajib) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15368718)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonicdev07) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tonicdev07) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23584267/anvarbek-xaydarov)
