@@ -51,13 +51,6 @@ Passionate about startup projects, I excel in dynamic environments, driving inno
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 </p>
 
-## 👀 Views and Followers ❤
-<a href="https://github.com/tonicdev09">
-    <img src="https://komarev.com/ghpvc/?username=19sajib">
-</a>
-<a href="https://github.com/tonicdev09?tab=followers">
-<img src="https://img.shields.io/github/followers/19sajib?label=Followers&style=social" alt="GitHub Badge">
-</a>
 
 <br/>
 
