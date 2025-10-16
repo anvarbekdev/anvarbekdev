@@ -13,7 +13,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=anvarbekdev&base=213&label=PROFILE+VIEWS&color=00ff94&style=for-the-badge&labelColor=0a0a0a)](https://github.com/anvarbekdev)
 [![GitHub Followers](https://img.shields.io/github/followers/anvarbekdev?label=FOLLOWERS&style=for-the-badge&color=00ff94&labelColor=0a0a0a&logo=github)](https://github.com/anvarbekdev)
 
-[![Total Stars](https://img.shields.io/github/stars/anvarbekdev?label=TOTAL+STARS&style=for-the-badge&color=00ff94&labelColor=0a0a0a&logo=github)](https://github.com/anvarbekdev)
+<!-- [![Total Stars](https://img.shields.io/github/stars/anvarbekdev?label=TOTAL+STARS&style=for-the-badge&color=00ff94&labelColor=0a0a0a&logo=github)](https://github.com/anvarbekdev) -->
 
 </div>
 
@@ -399,10 +399,10 @@ DEVELOPMENT TOOLS & PLATFORMS
 
 <div align="center">
 
-<img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api?username=anvarbekdev&show_icons=true&count_private=true&hide_border=true&title_color=00ff94&icon_color=00ff94&text_color=c9d1d9&bg_color=0d1117&border_radius=15" alt="GitHub Stats" />
+<img width="49%" height="220px" src="https://my-github-stats-ten-rust.vercel.app/api?username=anvarbekdev&show_icons=true&hide_border=true&title_color=00ff94&text_color=c9d1d9&bg_color=0d1117&border_radius=15" alt="GitHub Stats" />
 <img width="49%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=anvarbekdev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00ff94&fire=00ff94&currStreakLabel=00ff94&border_radius=15" alt="GitHub Streak" />
 
-<img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvarbekdev&layout=compact&hide_border=true&title_color=00ff94&text_color=c9d1d9&bg_color=0d1117&langs_count=10&border_radius=15" alt="Top Languages" />
+<img width="49%" height="220px" src="https://github-readme-stats-six-sandy-48.vercel.app/api/top-langs/?username=anvarbekdev&layout=compact&hide_border=true&title_color=00ff94&text_color=c9d1d9&bg_color=0d1117&langs_count=10&border_radius=15" alt="Top Languages" />
 <img width="49%" height="220px" src="https://github-readme-activity-graph.vercel.app/graph?username=anvarbekdev&custom_title=Contribution%20Activity&bg_color=0d1117&color=00ff94&line=00ff94&point=ffffff&area=true&hide_border=true&border_radius=15" alt="Activity Graph" />
 
 </div>
@@ -616,17 +616,17 @@ Features: User registration, Login/Logout, Token refresh, Role management, Passw
 <table>
 <tr>
 <td align="center" width="200">
-<a href="mailto:saidrasulovhojiakbar7@gmail.com">
+<a href="mailto:anvarbekxaydarov777@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
 </a>
 </td>
 <td align="center" width="200">
-<a href="https://linkedin.com/in/hojiakbar-saidrasulov">
+<a href="https://linkedin.com/in/anvarbekdev">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
 </a>
 </td>
 <td align="center" width="200">
-<a href="https://t.me/hojiakbar_dev">
+<a href="https://t.me/anvarbekdev">
 <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a" />
 </a>
 </td>
@@ -638,22 +638,22 @@ Features: User registration, Login/Logout, Token refresh, Role management, Passw
 </tr>
 <tr>
 <td align="center" width="200">
-<a href="https://hojiakbar.dev">
+<a href="https://anvarbekdev.uz">
 <img src="https://img.shields.io/badge/PORTFOLIO-00ff94?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a" />
 </a>
 </td>
 <td align="center" width="200">
-<a href="https://leetcode.com/hojiakbar">
+<a href="https://leetcode.com/anvarbekdev">
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" />
 </a>
 </td>
 <td align="center" width="200">
-<a href="https://hackerrank.com/hojiakbar">
+<a href="https://hackerrank.com/anvarbekdev">
 <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" />
 </a>
 </td>
 <td align="center" width="200">
-<a href="https://codeforces.com/profile/hojiakbar">
+<a href="https://codeforces.com/profile/anvarbekdev">
 <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a0a0a" />
 </a>
 </td>
@@ -752,8 +752,8 @@ Features: User registration, Login/Logout, Token refresh, Role management, Passw
 
 **If you find my projects helpful, consider supporting me**
 
-<a href="https://www.buymeacoffee.com/hojiakbar">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hojiakbar&button_colour=00ff94&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" height="60" />
+<a href="https://www.buymeacoffee.com/anvarbekdev">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=anvarbekdev&button_colour=00ff94&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" height="60" />
 </a>
 
 <br><br>
@@ -783,9 +783,9 @@ interface DeveloperProfile {
   askMeAbout: string[];
 }
 
-const hojiakbar: DeveloperProfile = {
-  name: "Hojiakbar Saidrasulov",
-  role: "Full Stack Developer",
+const anvarbekdev: DeveloperProfile = {
+  name: "Anvarbek Xaydarov", 
+  role: "Senior Full Stack Developer",
   location: "Tashkent, Uzbekistan",
   experience: "Building scalable web applications",
   education: "Computer Science & Software Engineering",
@@ -794,7 +794,9 @@ const hojiakbar: DeveloperProfile = {
     "Competitive Programming",
     "System Architecture",
     "Code Optimization",
-    "Football (Ronaldo Fan)",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Sports",
     "Cinema & Movies",
   ],
 
@@ -817,7 +819,7 @@ const hojiakbar: DeveloperProfile = {
   ],
 
   askMeAbout: [
-    "Java Spring Boot development",
+    "Nest.js development",
     "React and TypeScript",
     "Algorithm optimization",
     "Microservices architecture",
@@ -833,7 +835,7 @@ class Developer {
     const skills = {
       Java: "Expert",
       JavaScript: "Expert",
-      "Spring Boot": "Advanced",
+      "NodeJS": "Advanced",
       React: "Advanced",
       Algorithms: "Advanced",
       "System Design": "Intermediate",
@@ -846,7 +848,7 @@ class Developer {
   }
 }
 
-const me = new Developer(hojiakbar);
+const me = new Developer(anvarbekdev);
 console.log(me.getMotivation());
 ```
 
@@ -854,7 +856,7 @@ console.log(me.getMotivation());
 
 **Backend Development**
 
-- Java Spring Boot ecosystem
+- Nest.js ecosystem
 - Node.js and Express framework
 - RESTful API design and implementation
 - Microservices architecture patterns
@@ -906,7 +908,7 @@ console.log(me.getMotivation());
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=anvarbekdev&label=PROFILE+VIEWS&color=00ff94&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=anvarbekdev&label=PROFILE+VIEWS&base=213&color=00ff94&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views" />
 
 <br><br>
 
