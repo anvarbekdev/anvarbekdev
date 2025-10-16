@@ -503,7 +503,7 @@ DEVELOPMENT TOOLS & PLATFORMS
 
 **Enterprise-grade blogging system with authentication and real-time updates**
 
-Technologies: Java · Spring Boot · Spring Security · React · TypeScript · PostgreSQL · Redis · JWT
+Technologies: TypeScript · Nest.js · React · TypeScript · PostgreSQL · Redis · JWT
 
 Features: User authentication, Role-based access, Rich text editor, Real-time notifications, Image upload, Comment system
 
@@ -523,7 +523,7 @@ Features: Real-time messaging, Group chats, File sharing, Online status, Message
 
 **Todo application with advanced user management and JWT authentication**
 
-Technologies: React · TypeScript · Node.js · Express · MongoDB · Redux
+Technologies: React · TypeScript · Node.js · Nest.js · MongoDB · Redux
 
 Features: Task CRUD operations, User roles, JWT auth, Task filtering, Priority management, Deadline tracking
 
@@ -533,7 +533,7 @@ Features: Task CRUD operations, User roles, JWT auth, Task filtering, Priority m
 
 **Secure authentication service with role-based access control**
 
-Technologies: Spring Security · JWT · Spring Boot · React · PostgreSQL
+Technologies: Nest.js · Security · JWT · Node.js · React · PostgreSQL
 
 Features: User registration, Login/Logout, Token refresh, Role management, Password recovery, Email verification
 
