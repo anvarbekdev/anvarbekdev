@@ -1,116 +1,917 @@
-<h1 align="center">Hello World, I'm Anvarbek 👋</h1>
-<h2>💫Summary </h2>
-🌱I'm a dedicated Software Engineer proficient in Node.js, Next.js, React.js, Express.js, Nest.js, Python and TypeScript for full-stack development. Skilled in crafting responsive UIs with React.js and Next.js, I optimize applications for SEO, ensuring high visibility and organic traffic.
-
-With expertise in AI, I implement ML, LLMs, Chatbot and NLP techniques to develop intelligent solutions that enhance user experiences and streamline business processes.
-
-Prioritizing security, I implement encryption and authentication mechanisms to safeguard data integrity.
-
-Passionate about startup projects, I excel in dynamic environments, driving innovation through creative problem-solving. Experienced in RESTful API design, database optimization, and third-party API integration, I contribute to scalable microservices architectures.<br/>
-
-<h3 align="left">Current Tech Stack:</h3>
-
-<div align="left">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
-</div>
-
-<h2>🔧Career Objective </h2>
-⚡ Driven by a passion for both frontend and backend development, I aim to evolve into an architect-level engineer. Proficient in JavaScript, Node.js, Next.js, React.js, React Native, Express.js, Nest.js and TypeScript, I excel in crafting responsive UIs with React.js and Next.js. Simultaneously, I'm eager to explore AI technologies to enhance backend systems. My goal is to lead in designing and developing complex, scalable solutions that meet industry standards while continuously expanding my skill set.<br/>
-
-<h1 align="center"> 💻Tech Stack </h1>
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" alt="SOAP" title="SOAP"/></code>
-	<code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/25181517/297664473-1275d076-f047-432b-9084-308f88f8c176.png" alt="tRPC" title="tRPC"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code>
-	<code><img width="50" src="https://github.com/user-attachments/assets/e40fc76b-c8d8-47c3-bb53-c7795abaf596" alt="Supabase" title="Supabase"/></code>
-	<code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/265605607-dc393bd9-90b8-40d6-b396-dd9e547890c9.png" alt="Materialize" title="Materialize"/></code>
-	<code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png" alt="Strapi" title="Strapi"/></code>
-	<code><img width="50" src="https://cdn.brighttalk.com/ams/california/images/channel/19357/image_840418.png" alt="Auth0" title="Auth0"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a" alt="styled-components" title="styled-components"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" alt="Material Design" title="Material Design"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code>
-	<code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/></code>
-	<code><img width="50" src="https://github.com/user-attachments/assets/e4bd419a-2a4a-459a-ba9a-d3324e693c4d" alt="ShadCn UI" title="ShadCn UI"/></code>
-	<code><img width="50" src="https://github.com/user-attachments/assets/9027732b-de8c-4c4b-a065-235e15e33e5e" alt="Next UI" title="Next UI"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" alt="yarn" title="yarn"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest.js" title="Nest.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png" alt="Fastify" title="Fastify"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code>
-	<code><img width="50" src="https://github.com/user-attachments/assets/a3e40bf1-82d5-4907-b3bd-10d2eb4b00f5" alt="React Query" title="React Query"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code>
-	<code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b" alt="Babel" title="Babel"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" alt="Turborepo" title="Turborepo"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" title="NumPy"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
-	<code><img width="50" src="https://github.com/user-attachments/assets/f3bee16b-3609-489f-9445-d08c0a52468b" alt="Digital Ocean" title="Digital Ocean"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" alt="Elasticsearch" title="Elasticsearch"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
+
+# ANVARBEK XAYDAROV
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00FF94&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=SENIOR+FULL+STACK+DEVELOPER+%7C+MOBILE+PROGRAMMER;AI+AUTOMATIONS+%26+AI+AGENTS+%26+NLP;500%2B+PROBLEMS+SOLVED+%7C+PYTHON+%26+JAVASCRIPT+EXPERT;BUILDING+SCALABLE+SYSTEMS+%7C+MICROSERVICES+ARCHITECT" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 </div>
 
-<br/>
+<div align="center">
 
-## 📫 How to reach me:
+[![Profile Views](https://komarev.com/ghpvc/?username=anvarbekdev&base=213&label=PROFILE+VIEWS&color=00ff94&style=for-the-badge&labelColor=0a0a0a)](https://github.com/anvarbekdev)
+[![GitHub Followers](https://img.shields.io/github/followers/anvarbekdev?label=FOLLOWERS&style=for-the-badge&color=00ff94&labelColor=0a0a0a&logo=github)](https://github.com/anvarbekdev)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anvarbekdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anvarbekdev1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23584267/anvarbek-xaydarov)
+[![Total Stars](https://img.shields.io/github/stars/anvarbekdev?label=TOTAL+STARS&style=for-the-badge&color=00ff94&labelColor=0a0a0a&logo=github)](https://github.com/anvarbekdev)
 
-## Contact me:
-Email: [anvarbekxaydarov777@gmail.com](mailto:anvarbekxaydarov777@gmail.com) 
-<br/>
-WebSite: [anvarbekdev.uz](https://anvarbekdev.uz)
-<br/>
-Telegram: [anvarbekdev](https://t.me/anvarbekdev)
-<br/>
+</div>
+
+---
+
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## ABOUT ME
+
+**Senior Full Stack Developer | Mobile Programmer | AI Automations & AI Agents & NLP | Python & JavaScript Expert**
+
+Currently focused on developing scalable enterprise solutions and intelligent automation systems. Passionate about crafting clean, high-performance code across full-stack and mobile platforms, and leveraging AI, NLP, and agent-based architectures using Python and JavaScript.
+
+### WHAT I DO
+
+**Full Stack Development** - Building enterprise-level web and mobile applications using **Next.js/React.js**, **React Native**, and **Nest.js/Node.js**
+
+**AI & Automations** - Creating intelligent **AI Agents**, **NLP-powered systems**, and **automation workflows** with **Python** and **JavaScript**
+
+**Backend Architecture** - Designing scalable **microservices**, **event-driven systems**, and **real-time APIs**
+
+**System Optimization** - Enhancing performance, scalability, and reliability through clean architecture and advanced caching strategies
+
+**Problem Solving** - Solved 500+ algorithmic and system design problems across multiple platforms
+
+### CURRENT FOCUS
+
+Working on **AI Automations**, **Agentic Systems**, and **Cloud-Native Architectures**
+
+Building **cross-platform mobile apps** and **real-time backends**
+
+Exploring **LLM Integrations**, **Distributed Systems**, and **Serverless Infrastructure**
+
+Contributing to **Open Source AI Projects** and **Innovative Engineering Tools**
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+TECHNOLOGY ARSENAL
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+PROGRAMMING LANGUAGES & PARADIGMS
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="70" height="70" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+<br><sub>Expert Level</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ts" width="70" height="70" alt="TypeScript" />
+<br><strong>TypeScript</strong>
+<br><sub>Advanced Level</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cpp" width="70" height="70" alt="C++" />
+<br><strong>C++</strong>
+<br><sub>Advanced Level</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="70" height="70" alt="Python" />
+<br><strong>Python</strong>
+<br><sub>Advanced Level</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=go" width="70" height="70" alt="Go" />
+<br><strong>Go</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=rust" width="70" height="70" alt="Rust" />
+<br><strong>Rust</strong>
+<br><sub>Learning</sub>
+</td>
+</tr>
+</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+BACKEND TECHNOLOGIES & FRAMEWORKS
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs" width="70" height="70" alt="Node.js" />
+<br><strong>Node.js</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=express" width="70" height="70" alt="Express" />
+<br><strong>Express</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nestjs" width="70" height="70" alt="NestJS" />
+<br><strong>NestJS</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=fastapi" width="70" height="70" alt="FastAPI" />
+<br><strong>FastAPI</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=django" width="70" height="70" alt="Django" />
+<br><strong>Django</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=flask" width="70" height="70" alt="Flask" />
+<br><strong>Flask</strong>
+<br><sub>Intermediate</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=hibernate" width="70" height="70" alt="Hibernate" />
+<br><strong>Hibernate</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=graphql" width="70" height="70" alt="GraphQL" />
+<br><strong>GraphQL</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=apollo" width="70" height="70" alt="Apollo" />
+<br><strong>Apollo</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=rabbitmq" width="70" height="70" alt="RabbitMQ" />
+<br><strong>RabbitMQ</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=kafka" width="70" height="70" alt="Kafka" />
+<br><strong>Kafka</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=maven" width="70" height="70" alt="Maven" />
+<br><strong>Maven</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=gradle" width="70" height="70" alt="Gradle" />
+<br><strong>Gradle</strong>
+<br><sub>Advanced</sub>
+</td>
+</tr>
+</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+FRONTEND TECHNOLOGIES & FRAMEWORKS
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="70" height="70" alt="React" />
+<br><strong>React</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nextjs" width="70" height="70" alt="Next.js" />
+<br><strong>Next.js</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=remix" width="70" height="70" alt="Remix" />
+<br><strong>Remix</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=redux" width="70" height="70" alt="Redux" />
+<br><strong>Redux</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="70" height="70" alt="Tailwind" />
+<br><strong>Tailwind</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=sass" width="70" height="70" alt="Sass" />
+<br><strong>Sass</strong>
+<br><sub>Advanced</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="70" height="70" alt="HTML" />
+<br><strong>HTML5</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="70" height="70" alt="CSS" />
+<br><strong>CSS3</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=materialui" width="70" height="70" alt="Material-UI" />
+<br><strong>Material-UI</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=webpack" width="70" height="70" alt="Webpack" />
+<br><strong>Webpack</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vite" width="70" height="70" alt="Vite" />
+<br><strong>Vite</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=babel" width="70" height="70" alt="Babel" />
+<br><strong>Babel</strong>
+<br><sub>Advanced</sub>
+</td>
+</tr>
+</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+DATABASES & DATA STORAGE
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres" width="70" height="70" alt="PostgreSQL" />
+<br><strong>PostgreSQL</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="70" height="70" alt="MySQL" />
+<br><strong>MySQL</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=redis" width="70" height="70" alt="Redis" />
+<br><strong>Redis</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cassandra" width="70" height="70" alt="Cassandra" />
+<br><strong>Cassandra</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=elasticsearch" width="70" height="70" alt="Elasticsearch" />
+<br><strong>Elasticsearch</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=sqlite" width="70" height="70" alt="SQLite" />
+<br><strong>SQLite</strong>
+<br><sub>Advanced</sub>
+</td>
+</tr>
+</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+DEVOPS & CLOUD INFRASTRUCTURE
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=docker" width="70" height="70" alt="Docker" />
+<br><strong>Docker</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="70" height="70" alt="Kubernetes" />
+<br><strong>Kubernetes</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=jenkins" width="70" height="70" alt="Jenkins" />
+<br><strong>Jenkins</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=githubactions" width="70" height="70" alt="GitHub Actions" />
+<br><strong>GitHub Actions</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=gitlab" width="70" height="70" alt="GitLab CI" />
+<br><strong>GitLab CI</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=terraform" width="70" height="70" alt="Terraform" />
+<br><strong>Terraform</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ansible" width="70" height="70" alt="Ansible" />
+<br><strong>Ansible</strong>
+<br><sub>Intermediate</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=aws" width="70" height="70" alt="AWS" />
+<br><strong>AWS</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=azure" width="70" height="70" alt="Azure" />
+<br><strong>Azure</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=gcp" width="70" height="70" alt="GCP" />
+<br><strong>Google Cloud</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nginx" width="70" height="70" alt="Nginx" />
+<br><strong>Nginx</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=linux" width="70" height="70" alt="Linux" />
+<br><strong>Linux</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=bash" width="70" height="70" alt="Bash" />
+<br><strong>Bash</strong>
+<br><sub>Advanced</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=prometheus" width="70" height="70" alt="Prometheus" />
+<br><strong>Prometheus</strong>
+<br><sub>Intermediate</sub>
+</td>
+</tr>
+</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+DEVELOPMENT TOOLS & PLATFORMS
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git" />
+<br><strong>Git</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="70" height="70" alt="GitHub" />
+<br><strong>GitHub</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=idea" width="70" height="70" alt="IntelliJ" />
+<br><strong>IntelliJ IDEA</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="70" height="70" alt="VS Code" />
+<br><strong>VS Code</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postman" width="70" height="70" alt="Postman" />
+<br><strong>Postman</strong>
+<br><sub>Expert</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=figma" width="70" height="70" alt="Figma" />
+<br><strong>Figma</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vim" width="70" height="70" alt="Vim" />
+<br><strong>Vim</strong>
+<br><sub>Advanced</sub>
+</td>
+</tr>
+</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api?username=anvarbekdev&show_icons=true&count_private=true&hide_border=true&title_color=00ff94&icon_color=00ff94&text_color=c9d1d9&bg_color=0d1117&border_radius=15" alt="GitHub Stats" />
+<img width="49%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=anvarbekdev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00ff94&fire=00ff94&currStreakLabel=00ff94&border_radius=15" alt="GitHub Streak" />
+
+<img width="49%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvarbekdev&layout=compact&hide_border=true&title_color=00ff94&text_color=c9d1d9&bg_color=0d1117&langs_count=10&border_radius=15" alt="Top Languages" />
+<img width="49%" height="220px" src="https://github-readme-activity-graph.vercel.app/graph?username=anvarbekdev&custom_title=Contribution%20Activity&bg_color=0d1117&color=00ff94&line=00ff94&point=ffffff&area=true&hide_border=true&border_radius=15" alt="Activity Graph" />
+
+</div>
+
+<div align="center">
+
+### GITHUB ACHIEVEMENTS
+
+<img src="https://github-profile-trophy.vercel.app/?username=anvarbekdev&theme=algolia&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=1&column=8&border_radius=15" alt="Trophy" width="100%" />
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## COMPETITIVE PROGRAMMING
+
+<div align="center">
+
+### PROBLEM SOLVING STATISTICS
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/TOTAL_SOLVED-500+-00ff94?style=for-the-badge&labelColor=0a0a0a&logo=codechef&logoColor=white" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/ACMP.RU-300+-4CAF50?style=for-the-badge&labelColor=0a0a0a&logo=codeforces&logoColor=white" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/CSES-150+-FF9800?style=for-the-badge&labelColor=0a0a0a&logo=leetcode&logoColor=white" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/HACKERRANK-50+-2EC866?style=for-the-badge&labelColor=0a0a0a&logo=hackerrank&logoColor=white" />
+</td>
+</tr>
+</table>
+
+### ALGORITHM EXPERTISE
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/GRAPH_THEORY-ADVANCED-FF6B6B?style=for-the-badge&labelColor=0a0a0a" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/DYNAMIC_PROGRAMMING-EXPERT-4ECDC4?style=for-the-badge&labelColor=0a0a0a" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/GREEDY_ALGORITHMS-PROFICIENT-95E1D3?style=for-the-badge&labelColor=0a0a0a" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/BINARY_SEARCH-MASTER-F38181?style=for-the-badge&labelColor=0a0a0a" />
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/DATA_STRUCTURES-EXPERT-AA96DA?style=for-the-badge&labelColor=0a0a0a" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/SORTING-ADVANCED-FCBAD3?style=for-the-badge&labelColor=0a0a0a" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/GRAPH_TRAVERSAL-PROFICIENT-FFFFD2?style=for-the-badge&labelColor=0a0a0a" />
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/STRING_ALGORITHMS-INTERMEDIATE-A8D8EA?style=for-the-badge&labelColor=0a0a0a" />
+</td>
+</tr>
+</table>
+
+### COMPETITIVE PROGRAMMING JOURNEY
+
+**Main Practice Platform** - ACMP.ru with 300+ problems solved
+
+**Algorithm Mastery** - CSES problem set with 150+ solutions
+
+**Data Structures Focus** - HackerRank certification and practice
+
+**Interview Preparation** - LeetCode daily challenges and contests
+
+**Topics Mastered** - Graph Theory, Dynamic Programming, Greedy, Binary Search, STL
+
+**Advanced Topics** - Segment Trees, Fenwick Trees, Advanced Graph Algorithms
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## FEATURED PROJECTS
+
+<div align="center">
+
+### BLOG PLATFORM
+
+**Enterprise-grade blogging system with authentication and real-time updates**
+
+Technologies: Java · Spring Boot · Spring Security · React · TypeScript · PostgreSQL · Redis · JWT
+
+Features: User authentication, Role-based access, Rich text editor, Real-time notifications, Image upload, Comment system
+
+---
+
+### REAL-TIME CHAT APPLICATION
+
+**Scalable chat application with private and group messaging capabilities**
+
+Technologies: Node.js · WebSocket · React · MongoDB · Redis · Express
+
+Features: Real-time messaging, Group chats, File sharing, Online status, Message history, Typing indicators
+
+---
+
+### TASK MANAGEMENT SYSTEM
+
+**Todo application with advanced user management and JWT authentication**
+
+Technologies: React · TypeScript · Node.js · Express · MongoDB · Redux
+
+Features: Task CRUD operations, User roles, JWT auth, Task filtering, Priority management, Deadline tracking
+
+---
+
+### AUTHENTICATION MICROSERVICE
+
+**Secure authentication service with role-based access control**
+
+Technologies: Spring Security · JWT · Spring Boot · React · PostgreSQL
+
+Features: User registration, Login/Logout, Token refresh, Role management, Password recovery, Email verification
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## PROFESSIONAL EXPERTISE
+
+<div align="center">
+
+### BACKEND DEVELOPMENT
+
+**Microservices Architecture** - Designing and implementing distributed systems
+
+**RESTful API Design** - Creating scalable and maintainable APIs
+
+**Database Optimization** - Query optimization and indexing strategies
+
+**Authentication & Authorization** - JWT, OAuth2, Spring Security
+
+**Caching Strategies** - Redis implementation for performance
+
+**Message Queues** - RabbitMQ and Kafka integration
+
+### FRONTEND DEVELOPMENT
+
+**React Ecosystem** - Hooks, Context API, Redux state management
+
+**TypeScript** - Type-safe application development
+
+**Responsive Design** - Mobile-first approach with Tailwind CSS
+
+**Performance Optimization** - Code splitting and lazy loading
+
+**Modern JavaScript** - ES6+ features and best practices
+
+**Component Architecture** - Reusable and maintainable components
+
+### DEVOPS & DEPLOYMENT
+
+**Containerization** - Docker for consistent environments
+
+**Orchestration** - Kubernetes cluster management
+
+**CI/CD Pipelines** - Automated testing and deployment
+
+**Cloud Services** - AWS infrastructure and services
+
+**Version Control** - Git workflows and branching strategies
+
+**Monitoring** - Application performance monitoring
+
+### SOFTWARE ENGINEERING
+
+**Design Patterns** - Factory, Singleton, Observer, Strategy
+
+**SOLID Principles** - Writing maintainable code
+
+**Clean Architecture** - Separation of concerns
+
+**Test-Driven Development** - Unit and integration testing
+
+**Code Review** - Best practices and quality assurance
+
+**Agile Methodology** - Scrum and Kanban workflows
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## CONNECT WITH ME
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+<a href="mailto:saidrasulovhojiakbar7@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://linkedin.com/in/hojiakbar-saidrasulov">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://t.me/hojiakbar_dev">
+<img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a" />
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://github.com/anvarbekdev">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<a href="https://hojiakbar.dev">
+<img src="https://img.shields.io/badge/PORTFOLIO-00ff94?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a" />
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://leetcode.com/hojiakbar">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" />
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://hackerrank.com/hojiakbar">
+<img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" />
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://codeforces.com/profile/hojiakbar">
+<img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a0a0a" />
+</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## DEVELOPMENT PHILOSOPHY
+
+<div align="center">
+
+> "Code is like humor. When you have to explain it, it's bad."
+
+**WRITE CLEAN CODE** - Readable and maintainable code is more important than clever code
+
+**TEST EVERYTHING** - Automated tests catch bugs before they reach production
+
+**OPTIMIZE LATER** - Make it work, make it right, make it fast
+
+**NEVER STOP LEARNING** - Technology evolves, and so should we
+
+**COLLABORATE ACTIVELY** - Great software is built by great teams
+
+**SHIP EARLY, ITERATE OFTEN** - Feedback drives better products
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+### WEEKLY DEVELOPMENT BREAKDOWN
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anvarbekdev&bg_color=0d1117&color=00ff94&line=00ff94&point=ffffff&area=true&hide_border=true&custom_title=Last%2030%20Days%20Contribution%20Graph&height=400" alt="Contribution Graph" width="100%" />
+
+### CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## LANGUAGE PROFICIENCY
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="250">
+<h3>UZBEK</h3>
+<img src="https://img.shields.io/badge/NATIVE-100%25-00ff94?style=for-the-badge&labelColor=0a0a0a" />
+<p>Native speaker with full proficiency</p>
+</td>
+<td align="center" width="250">
+<h3>ENGLISH</h3>
+<img src="https://img.shields.io/badge/FLUENT-95%25-00d9ff?style=for-the-badge&labelColor=0a0a0a" />
+<p>Fluent in technical and business communication</p>
+</td>
+<td align="center" width="250">
+<h3>RUSSIAN</h3>
+<img src="https://img.shields.io/badge/TECHNICAL-80%25-ffaa00?style=for-the-badge&labelColor=0a0a0a" />
+<p>Proficient in technical documentation</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## SUPPORT MY WORK
+
+<div align="center">
+
+**If you find my projects helpful, consider supporting me**
+
+<a href="https://www.buymeacoffee.com/hojiakbar">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hojiakbar&button_colour=00ff94&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" height="60" />
+</a>
+
+<br><br>
+
+**Star my repositories if you like my work**
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" />
+
+</div>
+
+---
+
+<details>
+<summary><h2>MORE ABOUT ME</h2></summary>
+<br>
+
+```typescript
+interface DeveloperProfile {
+  name: string;
+  role: string;
+  location: string;
+  experience: string;
+  education: string;
+  interests: string[];
+  dailyRoutine: string[];
+  currentlyLearning: string[];
+  askMeAbout: string[];
+}
+
+const hojiakbar: DeveloperProfile = {
+  name: "Hojiakbar Saidrasulov",
+  role: "Full Stack Developer",
+  location: "Tashkent, Uzbekistan",
+  experience: "Building scalable web applications",
+  education: "Computer Science & Software Engineering",
+
+  interests: [
+    "Competitive Programming",
+    "System Architecture",
+    "Code Optimization",
+    "Football (Ronaldo Fan)",
+    "Cinema & Movies",
+  ],
+
+  dailyRoutine: [
+    "Morning coffee",
+    "Code review",
+    "Feature development",
+    "Problem solving",
+    "Learning new tech",
+    "Code optimization",
+    "Evening workout",
+  ],
+
+  currentlyLearning: [
+    "Kubernetes orchestration",
+    "Advanced system design",
+    "Cloud architecture patterns",
+    "GraphQL best practices",
+    "Event-driven architecture",
+  ],
+
+  askMeAbout: [
+    "Java Spring Boot development",
+    "React and TypeScript",
+    "Algorithm optimization",
+    "Microservices architecture",
+    "Database design",
+    "RESTful API design",
+  ],
+};
+
+class Developer {
+  constructor(private profile: DeveloperProfile) {}
+
+  getSkillLevel(skill: string): string {
+    const skills = {
+      Java: "Expert",
+      JavaScript: "Expert",
+      "Spring Boot": "Advanced",
+      React: "Advanced",
+      Algorithms: "Advanced",
+      "System Design": "Intermediate",
+    };
+    return skills[skill] || "Learning";
+  }
+
+  getMotivation(): string {
+    return "Passionate about writing clean, efficient code and solving complex problems";
+  }
+}
+
+const me = new Developer(hojiakbar);
+console.log(me.getMotivation());
+```
+
+### TECHNICAL SKILLS BREAKDOWN
+
+**Backend Development**
+
+- Java Spring Boot ecosystem
+- Node.js and Express framework
+- RESTful API design and implementation
+- Microservices architecture patterns
+- Database design and optimization
+- Authentication and authorization
+- Caching strategies with Redis
+- Message queues integration
+
+**Frontend Development**
+
+- React with Hooks and Context API
+- Redux state management
+- TypeScript for type safety
+- Responsive design principles
+- Modern CSS with Tailwind
+- Component-based architecture
+- Performance optimization techniques
+
+**Algorithms & Data Structures**
+
+- Graph theory and traversal algorithms
+- Dynamic programming solutions
+- Greedy algorithm strategies
+- Binary search implementations
+- Advanced data structures
+- Time and space complexity analysis
+- Problem-solving techniques
+
+**DevOps & Tools**
+
+- Docker containerization
+- Git version control
+- Linux system administration
+- CI/CD pipeline setup
+- Cloud deployment strategies
+- Application monitoring
+
+</details>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=footer&text=THANKS+FOR+VISITING&fontSize=50&fontAlignY=65&animation=twinkling&fontColor=ffffff" width="100%"/>
+
+### LET'S BUILD SOMETHING AMAZING TOGETHER
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=anvarbekdev&label=PROFILE+VIEWS&color=00ff94&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views" />
+
+<br><br>
+
+**MADE WITH PASSION BY HOJIAKBAR SAIDRASULOV**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="250">
+
+</div>
